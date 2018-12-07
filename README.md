@@ -3,6 +3,7 @@
 
 Subsections:
 1. What is it?
+
     a. Money is something that serves as a medium of exchange, a means of payment, and a store of value. 
 
 2. Where did it come from?
