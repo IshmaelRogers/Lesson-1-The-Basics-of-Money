@@ -1,7 +1,7 @@
-#Lesson 1:
-## Money Basics
+# Lesson 1:
+## The Basics of Money
 
-
+Subsections
 1. What is it?
 
 2. Where did it come from?
