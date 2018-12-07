@@ -3,10 +3,10 @@
 
 ### Introduction
 
-In this lesson, we're going to go over the basics of money. This includes going over what it is, why do we use it, and how to identify it. As we know, money is something that we use to buy the things we want and the things we need. In more technical terms, money serves as an exchange medium, a form of payment, and a store of value. Money is also known as currency or monetary units. Let's look at some examples. 
+In this lesson, we're going to go over the basics of money. This includes going over what it is, why do we use it, and how to identify it. As we know, money is something that we use to buy the things we want and the things we need. In more technical terms, money serves as an exchange medium, a form of payment, and a store of value. Money is also known as fiat money, currency, or monetary units. Let's look at some examples. 
 #### If little Billy goes shopping with his mother and sees a pair of shoes that he wants, how do you think he's going to get them?
 Yes, he can go through several different methods of persuading his mom to purchase them for him, but truthfully, the only way little Billy is going to get those pair of shoes is if he purchases them with a form of payment. This form of payment can be Cash, a Debit or Credit Card, or some other form of electronic currency if available.
-#### What happens if we take $100 
+#### What happens if we take $100 (STOPPED HERE)
 
 Residual Income- Interest
 Money has value because, in a physical sense, time does not cause it to age, or decay. 
