@@ -1,25 +1,16 @@
-# lesson1
-Lesson 1 
+#Lesson 1:
+## Money Basics
 
-Money Basics 
 
-The goal of this lesson is to provide a brief overview of the fundamental principles of money. Upon completion, students should be able to identify bills and coins, use basic terminology, and understand basic history of money. 
+1. What is it?
 
-What is it 
+2. Where did it come from?
 
-Where did it come from 
+3. How to identify?
 
-How to identify 
-
-Why do we use it? 
+4. Why do we use it? 
 
  
-
-Hey? 
-
-Are you, are you excited to get started?  
-
-What is Money? 
 
 Money is something that serves as a medium of exchange, a means of payment, and a store of value. 
 
