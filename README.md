@@ -1,8 +1,9 @@
 # Lesson 1:
 ## The Basics of Money
 
-Subsections
+Subsections:
 1. What is it?
+    a. Money is something that serves as a medium of exchange, a means of payment, and a store of value. 
 
 2. Where did it come from?
 
@@ -11,8 +12,6 @@ Subsections
 4. Why do we use it? 
 
  
-
-Money is something that serves as a medium of exchange, a means of payment, and a store of value. 
 
 Examples: 
 
