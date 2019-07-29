@@ -22,3 +22,60 @@ BitCoin is the one of the most popular forms of cryptocurrency used for exchange
 ### Physical Currency
 
 ### Credit
+
+# Lesson-2-new
+Earning
+
+Lesson 2 
+
+Earning Money 
+
+The goal of this lesson is to provide a brief overview of the different ways to earn money. Upon completion, students should be aware of different streams of income and ideas of how to start generating revenue.  
+
+Ways to Earn Money 
+
+Natural 
+
+Human Work (Labor) 
+
+Allowances 
+
+Chores 
+
+Jobs 
+
+Work with older relatives 
+
+Capital Resources 
+
+Entrepreneurship (risk-taking and combining natural, human, and capital resources in an attempt to make a profit) 
+
+Local 
+
+Lemonade 
+
+Candy 
+
+Online 
+
+YouTube 
+
+Instagram 
+
+Trading 
+
+Cryptocurrency 
+
+Bitcoin 
+
+USD 
+
+Did You Know? 
+
+DA Topic 
+
+CS Topic 
+
+Overview 
+
+Quiz 
