@@ -107,3 +107,50 @@ DA Topics
 
 CS Topics 
 
+# Lesson-3
+Spending
+
+
+Lesson 3 
+
+Spending Money 
+
+The goal of this lesson is to provide a brief overview of the different ways to allocate money. Upon completion, students should be aware of different streams of income and ideas of how to start generating revenue.  
+
+Why do we spend money? 
+
+Brief Economic Overview 
+
+Trading (Bartering) 
+
+Goods and Services 
+
+Ways to Spend Money 
+
+Brief Overview of different payment methods 
+
+Personal Spending 
+
+Opportunity Costs 
+
+Credit Methods 
+
+Taxes (Sales) 
+
+Wants & Needs 
+
+Make choices because you cannot have everything 
+
+Debt 
+
+Credit 
+
+Did You Know? 
+
+DA Topics 
+
+CS Topics 
+
+Overview 
+
+Quiz 
