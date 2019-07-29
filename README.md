@@ -79,3 +79,31 @@ CS Topic
 Overview 
 
 Quiz 
+
+# Lesson-6
+Sharing
+
+
+
+Lesson 6 
+
+Sharing Money 
+
+The goal of this lesson is to provide a brief overview of the different ways to share money. Upon completion, students should be aware of different ways to donate and share money.  
+
+What is a citizen? 
+
+Community Involvement 
+
+Community Service 
+
+Sharing 
+
+Donating 
+
+Did You Know? 
+
+DA Topics 
+
+CS Topics 
+
