@@ -7,6 +7,8 @@
 4. How do we earn money? (Entrepreneurship)
 5. Why is it important to know? 
 
+## Course Outline:
+
 ## Learning Activity: Identification Game
 Students will identify different types of currency.
 1. Cash
