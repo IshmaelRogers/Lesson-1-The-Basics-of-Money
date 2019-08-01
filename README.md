@@ -1,14 +1,30 @@
-# Lesson 1:
-## The Basics of Currency
+# Lesson 1: The Basics of Currency
 
-### Objectives:
+## Objectives:
 1. What is money?
 2. Why do we use money?
 3. How do we use money? (Exchange Systems)
 4. How do we earn money? (Entrepreneurship)
 5. Why is it important to know? 
 
-### Learning Activity: Identification Game
+## Learning Activity: Identification Game
+Students will identify different types of currency.
+1. Cash
+2. Coins
+3. Debit/Credit Cards
+4. Bitcoin
+5. Precious Metals
+6. ForEx
+7. Loans/Bank Notes
+8. Stocks
+9. Property/Land
+10. Real Estate/Houses
+
+Strategy:
+1. Draw on board with markers or chalk.
+2. Flip notepad with all icons included.
+3. Physical representation of each choice.
+
 
 ### Introduction
 
