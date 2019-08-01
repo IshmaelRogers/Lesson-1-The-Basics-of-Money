@@ -22,14 +22,17 @@ Persistent disruption will lead to removal from the class.
 If you come to class and put forth your best effort, I have a few surprises for you.
 That means listening, following instructions, and trying your hardest.
 - Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully making sure to utilize "Talking Ball".
-- Once my introduction is finsihed I will begin Lesson 1.
+- Once my introduction is finsihed, we will begin the Lesson of the Day.
 - Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully making sure to utilize "Talking Ball".
- 
+- Once lesson is finished, we will proceed to the Learning Activity of the day.
+- At the end of the activity, scores will be tallied and recorded for next class.
+- Students will be asked to pack their things while remaining seated.
+- Students will be lined up at the door and then walked back to after school program. If any student needs to use the restroom, they will be permitted.
 
 # Lesson 1: The Basics of Currency
 
 # Learning Activity: Identification Game
-Students will identify different types of currency.
+- Objective: Students will identify different types of currency.
 1. Cash
 2. Coins
 3. Debit/Credit Cards
@@ -41,11 +44,16 @@ Students will identify different types of currency.
 9. Property/Land
 10. Real Estate/Houses
 
-Strategy:
+- Strategy:
 1. Draw on board with markers or chalk.
 2. Flip notepad with all icons included.
 3. Physical representation of each choice.
 
+-Rules:
+1. For each correct answer, student or teams will receive +1000 points.
+2. No answering out of turn. Student or teams must be called on AND receive the "Talking Ball" in order to answer game questions.
+3. Student or teams will given 30 seconds to 1 minute to answer questions once selected or their turn is forfeited and passed on to the next student or team.
+4. If no one can answer the question, students will be permitted to work together to reach the answer for +500 points each. If students can not reach the answer, students may be quizzed on missed questions in next class.
 
 ### Introduction
 
