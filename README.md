@@ -1,8 +1,8 @@
 ## Objectives:
-1. What is money?
-2. Why do we use money?
-3. How do we use money? (Exchange Systems)
-4. How do we earn money? (Entrepreneurship)
+1. What is currency?
+2. Why do we use currency?
+3. How do we use currency? (Exchange Systems)
+4. How do we earn currency? (Entrepreneurship)
 5. Why is it important to know? 
 
 ## Course Outline:
@@ -30,6 +30,47 @@ That means listening, following instructions, and trying your hardest.
 - Students will be lined up at the door and then walked back to after school program. If any student needs to use the restroom, they will be permitted.
 
 # Lesson 1: The Basics of Currency
+1. What is currency?
+- Currency is more than just cash and can be represented all types of ways. Since currency is used to store value it is used as a medium of exchange.
+-Examples:
+1. Parents go to work for money.
+2. Parents use money to purchase groceries from grocery story.
+
+2. Why do we use currency?
+- In a nutshell, currency is used to acquire things you do not have. Whether you just want these things or actually need these things is a discussion for another day.
+
+3. How do we use currency? (Exchange Systems)
+- People used to exchange goods and services for things they did not have or things that they wanted. 
+- Examples: 
+1. Fabric/Clothing
+2. Stones/Jewels
+3. Slaves/Animals.
+- As time moved on, the exchange systems remained the same, but the items exchanged began to change. 
+- Examples: 
+1. Coins
+2. Dollars
+3. Loans
+- Though times have changed since earlier exchange systems have been developed, some items still have managed to retain value.
+- Examples: 
+1. Silver
+2. Platinum
+3. Gold.
+
+4. How do we earn currency? (Entrepreneurship)
+- Currency doesn't just accumulate on it's ow. You have to go out and make it. How you do that is up to you.
+- Examples:
+1. Entrepreneurship- "Invent" a pair of shoes or become a business owner.
+2. Talents- Become a basketball player or engineer.
+- There are numerous ways to earn currency, but the most important takeaway is that there is always an exchange system with any type of currency.
+-Examples: (Explain the give and take)
+1. You can clean your room for a weekly allowance.
+2. You cna sell candy after school to your peers for cash.
+3. You could have a really amazing career years from now that comes with a company car, phone, house, and a big check.
+
+5. Why is it important to know?
+- This is important to know because,
+1. This exchange system is going to be relevant for the rest of your lives. Humans will always exchange some form of currency for something else of value.
+2. You need to understand how money works so that you can then make money work for you.
 
 # Learning Activity: Identification Game
 - Objective: Students will identify different types of currency.
