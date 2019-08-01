@@ -21,7 +21,10 @@ Persistent disruption will lead to removal from the class.
 3. Good behavior is rewarded.
 If you come to class and put forth your best effort, I have a few surprises for you.
 That means listening, following instructions, and trying your hardest.
-- 
+- Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully making sure to utilize "Talking Ball".
+- Once my introduction is finsihed I will begin Lesson 1.
+- Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully making sure to utilize "Talking Ball".
+ 
 
 # Lesson 1: The Basics of Currency
 
