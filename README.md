@@ -11,9 +11,17 @@
 - Students will be paired or grouped together based on grade level.
 - Once every student is seated, I will write my name on the board and begin my introduction.
 - Students will be given the following three rules:
--- 1. No one can talk unless it is their turn to talk.
-It isn't your turn to talk UNLESS you are holding the "Talking Ball". 
-You can ONLY talk when you are holding the "Talking Ball" (which I will be holding the majority of the time).
+1. Do not talk unless it is your turn to talk.
+It isn't your turn to talk UNLESS you are holding the "Talking Ball" and you can ONLY talk when you are holding the "Talking Ball" (which I will be holding the majority of the time).
+No one is allowed to talk when someone else is talking.
+2. Do not interrupt my class.
+If you cause cause any disruption, you will have to first stand up.
+If further disruption proceeds, student(s) will be removed from classroom.
+Persistent disruption will lead to removal from the class.
+3. Good behavior is rewarded.
+If you come to class and put forth your best effort, I have a few surprises for you.
+That means listening, following instructions, and trying your hardest.
+- 
 
 # Lesson 1: The Basics of Currency
 
