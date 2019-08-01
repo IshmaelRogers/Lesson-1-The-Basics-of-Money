@@ -74,7 +74,8 @@ That means listening, following instructions, and trying your hardest.
 2. You need to understand how money works so that you can then make money work for you.
 
 ## Learning Activity: Identification Game
-- Objective: Students will identify different types of currency.
+### Objective: 
+Students will identify different types of currency.
 1. Cash
 2. Coins
 3. Debit/Credit Cards
@@ -86,12 +87,12 @@ That means listening, following instructions, and trying your hardest.
 9. Property/Land
 10. Real Estate/Houses
 
-- Strategy:
+### Strategy:
 1. Draw on board with markers or chalk.
 2. Flip notepad with all icons included.
 3. Physical representation of each choice.
 
-- Rules:
+### Rules:
 1. For each correct answer, student or teams will receive +1000 points.
 2. No answering out of turn. Student or teams must be called on AND receive the "Talking Ball" in order to answer game questions.
 3. Student or teams will given 30 seconds to 1 minute to answer questions once selected or their turn is forfeited and passed on to the next student or team.
