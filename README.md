@@ -11,7 +11,7 @@
 - Students will be paired or grouped together based on grade level.
 - Once every student is seated, I will write my name on the board and begin my introduction.
 - Students will be given the following three rules:
-# 1. No one can talk unless it is their turn to talk.
+-- 1. No one can talk unless it is their turn to talk.
 It isn't your turn to talk UNLESS you are holding the "Talking Ball". 
 You can ONLY talk when you are holding the "Talking Ball" (which I will be holding the majority of the time).
 
