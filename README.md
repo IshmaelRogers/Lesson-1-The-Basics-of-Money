@@ -1,5 +1,12 @@
-# Week 1:
-## The Basics of Money
+# Lesson 1:
+## The Basics of Currency
+
+### Objectives:
+1. What is money?
+2. Why do we use money?
+3. How do we use money? (Exchange Systems)
+4. How do we earn money? (Entrepreneurship)
+5. Why is it important to know? 
 
 ### Introduction
 
