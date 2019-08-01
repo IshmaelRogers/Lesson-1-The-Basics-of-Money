@@ -30,17 +30,17 @@ That means listening, following instructions, and trying your hardest.
 - Students will be asked to pack their things while remaining seated.
 - Students will be lined up at the door and then walked back to after school program. If any student needs to use the restroom, they will be permitted.
 
-# Lesson 1 Breakdown:
-1. What is currency?
+## Lesson 1 Breakdown:
+### What is currency?
 - Currency is more than just cash and can be represented all types of ways. Since currency is used to store value it is used as a medium of exchange.
 -Examples:
 1. Parents go to work for money.
 2. Parents use money to purchase groceries from grocery story.
 
-2. Why do we use currency?
+### Why do we use currency?
 - In a nutshell, currency is used to acquire things you do not have. Whether you just want these things or actually need these things is a discussion for another day.
 
-3. How do we use currency? (Exchange Systems)
+### How do we use currency? (Exchange Systems)
 - People used to exchange goods and services for things they did not have or things that they wanted. 
 - Examples: 
 1. Fabric/Clothing
@@ -57,7 +57,7 @@ That means listening, following instructions, and trying your hardest.
 2. Platinum
 3. Gold.
 
-4. How do we earn currency? (Entrepreneurship)
+### How do we earn currency? (Entrepreneurship)
 - Currency doesn't just accumulate on its own. You have to go out and make it. How you do that is up to you.
 - Examples:
 1. Entrepreneurship- "Invent" a pair of shoes or become a business owner.
@@ -68,12 +68,12 @@ That means listening, following instructions, and trying your hardest.
 2. You can sell candy after school to your peers for cash.
 3. You could have a really amazing career years from now that comes with a company car, phone, house, and a big check.
 
-5. Why is it important to know?
+### Why is it important to know?
 - This is important to know because,
 1. This exchange system is going to be relevant for the rest of your lives. Humans will always exchange some form of currency for something else of value.
 2. You need to understand how money works so that you can then make money work for you.
 
-# Learning Activity: Identification Game
+## Learning Activity: Identification Game
 - Objective: Students will identify different types of currency.
 1. Cash
 2. Coins
@@ -91,7 +91,7 @@ That means listening, following instructions, and trying your hardest.
 2. Flip notepad with all icons included.
 3. Physical representation of each choice.
 
--Rules:
+- Rules:
 1. For each correct answer, student or teams will receive +1000 points.
 2. No answering out of turn. Student or teams must be called on AND receive the "Talking Ball" in order to answer game questions.
 3. Student or teams will given 30 seconds to 1 minute to answer questions once selected or their turn is forfeited and passed on to the next student or team.
