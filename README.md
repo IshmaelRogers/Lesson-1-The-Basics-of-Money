@@ -8,6 +8,8 @@
 4. How do we earn money? (Entrepreneurship)
 5. Why is it important to know? 
 
+### Learning Activity: Identification Game
+
 ### Introduction
 
 In this lesson, we're going to go over the basics of money. This includes going over what it is, why do we use it, and how to identify it. As we know, money is something that we use to buy the things we want and the things we need. In more technical terms, money serves as an exchange medium, a form of payment, and a store of value. Money is also known as fiat money, currency, or monetary units. Let's look at some examples. 
