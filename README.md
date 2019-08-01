@@ -1,5 +1,3 @@
-# Lesson 1: The Basics of Currency
-
 ## Objectives:
 1. What is money?
 2. Why do we use money?
@@ -8,8 +6,18 @@
 5. Why is it important to know? 
 
 ## Course Outline:
+- Students will be led to the classroom in a single file line from either youngest to oldest or shortest to tallest.
+** Aiming to have a classroom with long tables or spacious so that desk can be pushed together.
+- Students will be paired or grouped together based on grade level.
+- Once every student is seated, I will write my name on the board and begin my introduction.
+- Students will be given the following three rules:
+# 1. No one can talk unless it is their turn to talk.
+It isn't your turn to talk UNLESS you are holding the "Talking Ball". 
+You can ONLY talk when you are holding the "Talking Ball" (which I will be holding the majority of the time).
 
-## Learning Activity: Identification Game
+# Lesson 1: The Basics of Currency
+
+# Learning Activity: Identification Game
 Students will identify different types of currency.
 1. Cash
 2. Coins
