@@ -40,7 +40,7 @@ That means listening, following instructions, and trying your hardest.
 ### Why do we use currency?
 - In a nutshell, currency is used to acquire things you do not have. Whether you just want these things or actually need these things is a discussion for another day.
 
-### How do we use currency? (Exchange Systems)
+### How do we use currency?
 - People used to exchange goods and services for things they did not have or things that they wanted. 
 - Examples: 
 1. Fabric/Clothing
@@ -57,7 +57,7 @@ That means listening, following instructions, and trying your hardest.
 2. Platinum
 3. Gold.
 
-### How do we earn currency? (Entrepreneurship)
+### How do we earn currency?
 - Currency doesn't just accumulate on its own. You have to go out and make it. How you do that is up to you.
 - Examples:
 1. Entrepreneurship- "Invent" a pair of shoes or become a business owner.
