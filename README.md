@@ -1,4 +1,4 @@
-# The Basics of Currency
+# What is 
 ## Objectives:
 - Students will learn the meaning and purpose of currency.
 - Students will learn about different types of currency exchange systems.
@@ -7,34 +7,34 @@
 
 ## Course Outline:
 - Students will be led to the classroom in a single file line from either youngest to oldest or shortest to tallest.
-** Aiming to have a classroom with long tables or spacious so that desk can be pushed together.
 - Students will be paired or grouped together based on grade level.
-- Once every student is seated, I will write my name on the board and begin my introduction.
+- Once every student is seated, facilitator will begin their introduction.
 - Students will be given the following three rules:
-1. Do not talk unless it is your turn to talk.
-It isn't your turn to talk UNLESS you are holding the "Talking Ball" and you can ONLY talk when you are holding the "Talking Ball" (which I will be holding the majority of the time).
-No one is allowed to talk when someone else is talking.
-2. Do not interrupt my class.
-If you cause cause any disruption, you will have to first stand up.
-If further disruption proceeds, student(s) will be removed from classroom.
-Persistent disruption will lead to removal from the class.
+1. No talking out of turn.
+One can ONLY talk when called upon and has received the "Talking Ball" signifying that that person needs undivided atttention. (Which will be held by the facilitator the majority of the class).
+No one should talk while someone else is talking.
+2. Do not interrupt the class.
+There is only one hour of allotted facilitation time. The class period should not be spent giving attention to individuals acting out.
+The initial disruption may result in student(s) having to stand for a few moments with a finger over their mouth.
+If further disruption proceeds, student(s) will be removed from classroom followed by a report to the site coordinator.
+Persistent disruption will lead to a parent-facilitator conference and possible permanent removal from the class.
 3. Good behavior is rewarded.
-If you come to class and put forth your best effort, I have a few surprises for you.
-That means listening, following instructions, and trying your hardest.
-- Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully making sure to utilize "Talking Ball".
-- Once my introduction is finsihed, we will begin the Lesson of the Day.
-- Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully making sure to utilize "Talking Ball".
-- Once lesson is finished, we will proceed to the Learning Activity of the day.
+If students display good behavior that reflects a positive learning attitude, they will be awarded with different prizes to boost morale and to encourage and affirm positive actions. 
+That includes listening, following instructions, and putting forth effort to learn.
+- Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully, making sure to utilize "Talking Ball".
+- Once the facilitator has finished their introduction, they will begin facilitating the lesson of the day.
+- Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully, making sure to utilize "Talking Ball".
+- Once the lesson of the day is complete, class will proceed to the Learning Activity of the day.
 - At the end of the activity, scores will be tallied and recorded for next class.
 - Students will be asked to pack their things while remaining seated.
 - Students will be lined up at the door and then walked back to after school program. If any student needs to use the restroom, they will be permitted.
 
 ## Lesson 1 Breakdown:
 ### What is currency?
-- Currency is more than just cash and can be represented all types of ways. Since currency is used to store value it is used as a medium of exchange.
+- Currency is more than just cash money and can be represented in all types of ways. There's physical currency, like cash and credit cards; electronic money, like cryptocurrency and Since currency is used to store value, it is used as a medium of exchange.
 -Examples:
-1. Parents go to work for money.
-2. Parents use money to purchase groceries from grocery story.
+1. Brandon buys his mom an 18K-Gold Bracelet from Big Al's Jewelry Store for $1,000. How does that reflect a store of value or a medium of exchange?
+- The 18K-Gold Bracelet's present value is equivalent to $1,000 USD. In order for Brandon to obtain the bracelet from Big Jewelry Store, he has to give them $1,000 in cash. The exchange then takes place when B
 
 ### Why do we use currency?
 - In a nutshell, currency is used to acquire things you do not have. Whether you just want these things or actually need these things is a discussion for another day.
