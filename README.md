@@ -1,10 +1,9 @@
 # The Basics of Currency
 ## Objectives:
-1. What is currency?
-2. Why do we use currency?
-3. How do we use currency? (Exchange Systems)
-4. How do we earn currency? (Entrepreneurship)
-5. Why is it important to know? 
+- Students will learn the meaning and purpose of currency.
+- Students will learn about different types of currency exchange systems.
+- Students will learn about how to acquire currency.
+- Students will learn why it is important to know about currency and how it works.
 
 ## Course Outline:
 - Students will be led to the classroom in a single file line from either youngest to oldest or shortest to tallest.
