@@ -39,9 +39,9 @@ That includes listening, following instructions, and putting forth effort to lea
 
 ### What are the different types of money?
 - Money can be broken down into 3 categories: Commodity, Representative, and Fiat Money.
-1. **Commodity Money**- money whose value comes from itself. *Example: Pearls, Diamonds, and Platinum
-2. **Representative Money**- money that represents the value of something else, but has little to no value of its own. *Example: Loan or Deed
-3. **Fiat Money**- money that is backed by the government to be considered legal tender *Example: Dollars and Checks
+1. **Commodity Money**- money whose value comes from itself. *Example: Pearls, Diamonds, and Platinum.
+2. **Representative Money**- money that represents the value of something else, but has little to no value of its own. *Example: Loan or Deed.
+3. **Fiat Money**- money that is backed by the government to be considered legal tender *Example: Dollars and Checks.
 
 ### What is the purpose of money?
 - Money is used as a medium of exchange; it allows for a transaction to take place.
@@ -69,7 +69,7 @@ That includes listening, following instructions, and putting forth effort to lea
 3. You could have a really amazing career years from now that comes with a company car, phone, house, and a big check.
 
 ### Why is it important to know?
-- ***The most important takeaway from this lesson is that there is always an exchange system involving money.- This is important to know because:
+- ***The most important takeaway from this lesson is that there is always an exchange system involving money.- This is important to know because:***
 1. This exchange system is going to be relevant for the rest of your lives. Humans will always exchange some form of currency for something else of value.
 2. You need to understand how money works so that you can then make money work for you.
 
