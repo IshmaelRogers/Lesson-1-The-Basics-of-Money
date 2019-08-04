@@ -33,15 +33,15 @@ That includes listening, following instructions, and putting forth effort to lea
 ## Lesson 1 Breakdown:
 ### What is money?
 - Money, also known as funds, capital, currency, and legal tender, is something that is generally accepted to obtain goods and services. It is commonly accepted as:
-1. **A means of payment;** Your parents purchase food for you to eat from your favorite restaurant.
-2. **A measure of value;** Your favorite pair of shoes are $50.
-3. **A medium of exchange;** 100 dollars equals almost 2,000 pesos in Mexico. 
+1. **A means of payment;** Your parents purchase food for you to eat; Maggie takes out a loan for $18,000 to purchase a new car.
+2. **A measure of value;** Your favorite pair of shoes are $50; The price of gold per gram today is about $46.
+3. **A medium of exchange;** 100 dollars equals almost 2,000 pesos (**a foreign currency**) in Mexico; 100 shares of stock at your parent's company cost $500.
 
 ### What are the different types of money?
 - Money can be broken down into 3 categories: Commodity, Representative, and Fiat Money.
 1. **Commodity Money**- money whose value comes from itself. *Example: Pearls, Diamonds, and Platinum*
 2. **Representative Money**- money that represents the value of something else, but has little to no value of its own. *Example: Loan or Deed*
-3. **Fiat Money**- money that is backed by the government to be considered legal tender. *Example: Dollars and Checks*
+3. **Fiat Money**- money that is backed by the government to be considered legal tender. *Example: Dollars and Checks. Bitcoin and other cryptocurrencies would not be considered fiat currency because it is not backed by the government, but more on this later.*
 
 ### What is the purpose of money?
 - Money is used as a medium of exchange; it allows for a transaction to take place.
@@ -75,17 +75,17 @@ That includes listening, following instructions, and putting forth effort to lea
 
 ## Learning Activity: Identification Game
 ### Objective: 
-Students will identify different types of currency:
-1. Cash
+Students will identify different types of money:
+1. Dollars
 2. Coins
-3. Debit/Credit Cards
+3. Credit Cards
 4. Cryptocurrency
 5. Precious Metals
-6. Foreign CUrrency
+6. Foreign Currency
 7. Loans/Bank Notes
 8. Stocks
 9. Property/Land
-10. Real Estate/Houses
+10. Real Estate/Houses 
 
 ### Strategy:
 - Draw on board with markers or chalk.
