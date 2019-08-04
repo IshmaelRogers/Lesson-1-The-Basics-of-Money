@@ -1,9 +1,10 @@
-# What is 
+# The Basics of Money
 ## Objectives:
-- Students will learn the meaning and purpose of currency.
-- Students will learn about different types of currency exchange systems.
-- Students will learn about how to acquire currency.
-- Students will learn why it is important to know about currency and how it works.
+- Students will learn the meaning of monetary value.
+- Students will learn the purpose of the usage of money.
+- Students will learn about different types of money and exchange systems.
+- Students will learn about how to acquire money.
+- Students will learn why it is important to know about money and how it works.
 
 ## Course Outline:
 - Students will be led to the classroom in a single file line from either youngest to oldest or shortest to tallest.
@@ -30,38 +31,39 @@ That includes listening, following instructions, and putting forth effort to lea
 - Students will be lined up at the door and then walked back to after school program. If any student needs to use the restroom, they will be permitted.
 
 ## Lesson 1 Breakdown:
-### What is currency?
-- Currency is more than just cash money and can be represented in all types of ways. There's physical currency, like cash and credit cards; electronic money, like cryptocurrency and Since currency is used to store value, it is used as a medium of exchange.
--Examples:
-1. Brandon buys his mom an 18K-Gold Bracelet from Big Al's Jewelry Store for $1,000. How does that reflect a store of value or a medium of exchange?
-- The 18K-Gold Bracelet's present value is equivalent to $1,000 USD. In order for Brandon to obtain the bracelet from Big Jewelry Store, he has to give them $1,000 in cash. The exchange then takes place when B
+### What is money?
+- Money is something that is generally accepted to obtain goods and services. It is commonly accepted as:
+1. A means of payment; Your parents purchase food for you to eat from your favorite restaurant.
+2. A measure of value; Your favorite pair of shoes are $50.
+3. A medium of exchange; 100 dollars equals almost 2,000 pesos in Mexico. 
 
-### Why do we use currency?
-- In a nutshell, currency is used to acquire things you do not have. Whether you just want these things or actually need these things is a discussion for another day.
+### What are the different types of money?
+- Money can be broken down into 3 categories: Commodity, Representative, and Fiat Money.
+1. Commodity Money- money whose value comes from itself. Example: Pearls, Diamonds, and Platinum.
+2. Representative Money- money that represents the value of something else, but has little to no value of its own. (Example: Loan, Deed) 
+3. Fiat Money- money that is backed by the government to be considered legal tender (Example: Dollars, Checks)
 
-### How do we use currency?
-- People used to exchange goods and services for things they did not have or things that they wanted. 
+### What is the purpose of money?
+- Money is used as a medium of exchange; it allows for a transaction to take place.
+- In older versions of society, people used bartering systems as a direct way to exchange commodity money. This means that they exchanged goods and services for other goods and services. 
 - Examples: 
-1. Fabric/Clothing
-2. Stones/Jewels
-3. Slaves/Animals.
-- As time moved on, the exchange systems remained the same, but the items exchanged began to change. 
+1. Fabric/Clothing for Food
+2. Stones/Jewels for Clothing
+3. Slaves/Animals for Land
+- As time moved on, people also started using representative money (like checks and credit cards) and fiat money (like dollars and coins).
+- Some rare commodity money (like gold and silver) remain relevant today and still retains a high economic value. 
+- Now, people can make transactions indirectly daily. 
 - Examples: 
-1. Coins
-2. Dollars
-3. Loans
-- Though times have changed since earlier exchange systems have been developed, some items still have managed to retain value.
-- Examples: 
-1. Silver
-2. Platinum
-3. Gold.
+1. Stores like Wal-Mart and Amazon make it easy for people to make purchases from virtually anywhere.
+2. Gold is being traded as currency in the foreign exchange market.
 
-### How do we earn currency?
-- Currency doesn't just accumulate on its own. You have to go out and make it. How you do that is up to you.
+### How do to earn money?
+- Money doesn't just accumulate on its own. You have to go out and earn it. How you that is up to you.
 - Examples:
 1. Entrepreneurship- "Invent" a pair of shoes or become a business owner.
 2. Talents- Become a basketball player or engineer.
-- There are numerous ways to earn currency, but the most important takeaway is that there is always an exchange system with any type of currency.
+- There are numerous ways to earn money.
+- The most important takeaway is that there is always an exchange system when involving money.
 -Examples: (Explain the give and take)
 1. You can clean your room for a weekly allowance.
 2. You can sell candy after school to your peers for cash.
