@@ -57,20 +57,20 @@ That includes listening, following instructions, and putting forth effort to lea
 1. Stores like Wal-Mart and Amazon make it easy for people to make purchases from virtually anywhere.
 2. Gold is being traded as currency in the foreign exchange market.
 
-### How do to earn money?
+### How to earn money?
 - Money doesn't just accumulate on its own. You have to go out and earn it. How you that is up to you.
 - Examples:
 1. Entrepreneurship- "Invent" a pair of shoes or become a business owner.
 2. Talents- Become a basketball player or engineer.
 - There are numerous ways to earn money.
-- The most important takeaway is that there is always an exchange system when involving money.
--Examples: (Explain the give and take)
+- The most important takeaway from this lesson is that there is always an exchange system involving money.
+- Examples: (**Explain the give and take of each.)
 1. You can clean your room for a weekly allowance.
 2. You can sell candy after school to your peers for cash.
 3. You could have a really amazing career years from now that comes with a company car, phone, house, and a big check.
 
 ### Why is it important to know?
-- This is important to know because,
+- This is important to know because:
 1. This exchange system is going to be relevant for the rest of your lives. Humans will always exchange some form of currency for something else of value.
 2. You need to understand how money works so that you can then make money work for you.
 
