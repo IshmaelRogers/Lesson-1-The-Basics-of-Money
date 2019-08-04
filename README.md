@@ -39,9 +39,9 @@ That includes listening, following instructions, and putting forth effort to lea
 
 ### What are the different types of money?
 - Money can be broken down into 3 categories: Commodity, Representative, and Fiat Money.
-1. **Commodity Money**- money whose value comes from itself. *Example: Pearls, Diamonds, and Platinum.
-2. **Representative Money**- money that represents the value of something else, but has little to no value of its own. *Example: Loan or Deed.
-3. **Fiat Money**- money that is backed by the government to be considered legal tender *Example: Dollars and Checks.
+1. **Commodity Money**- money whose value comes from itself. *Example: Pearls, Diamonds, and Platinum*
+2. **Representative Money**- money that represents the value of something else, but has little to no value of its own. *Example: Loan or Deed*
+3. **Fiat Money**- money that is backed by the government to be considered legal tender *Example: Dollars and Checks*
 
 ### What is the purpose of money?
 - Money is used as a medium of exchange; it allows for a transaction to take place.
