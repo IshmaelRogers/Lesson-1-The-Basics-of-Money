@@ -32,7 +32,7 @@ That includes listening, following instructions, and putting forth effort to lea
 
 ## Lesson 1 Breakdown:
 ### What is money?
-- Money is something that is generally accepted to obtain goods and services. It is commonly accepted as:
+- Money, also known as funds, capital, currency, and legal tender, is something that is generally accepted to obtain goods and services. It is commonly accepted as:
 1. **A means of payment;** Your parents purchase food for you to eat from your favorite restaurant.
 2. **A measure of value;** Your favorite pair of shoes are $50.
 3. **A medium of exchange;** 100 dollars equals almost 2,000 pesos in Mexico. 
