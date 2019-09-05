@@ -106,4 +106,4 @@ Students will identify different examples of money:
 5. If sufficient class time remains after all examples have been provided, students can then identify the type of money example (Commodity, Representitive, and Fiat) for an additional +50 points.
 
 #### Side Teachers Note: 
--Take note of official roster for class. Will be needing for next week's activity for banking.
+- Take note of official roster for class and points earned by each group. This will be needing for next week's activity for banking.
