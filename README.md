@@ -38,12 +38,13 @@ That includes listening, following instructions, and putting forth effort to lea
 3. **A medium of exchange;** 100 dollars equals almost 2,000 pesos (**a foreign currency**) in Mexico; 100 shares of stock at your parent's company cost $500.
 
 ### What are the different types of money?
-*Select a student, pretend that you have borrowed $10 from the student, and write 'IOU' on piece of paper and give to student. Ask the class: *
-- *What does the paper represent, *
+*Select a student, pretend that you have borrowed $10 from the student, and write 'IOU' on piece of paper and give to student. Ask the class:*
+- *What does the paper represent,*
 - *Does the paper have value,*
-- *Can it be spent at the store? *
+- *Can it be spent at the store?*
 
 *Advise students that the demonstration is a representation of contractual agreements and to not accept IOUs in real life unless the document contains necessary information to deem the documentation valid. Thank student for participate and award class points.*
+
 - Money can be broken down into 3 categories: Commodity, Representative, and Fiat Money.
 1. **Commodity Money**- money whose value comes from itself. *Example: Pearls, Diamonds, and Bitcoin*
 2. **Representative Money**- money that represents the value of something else, but has little to no value of its own. *Example: Loan, Deed, or Checks*
