@@ -14,12 +14,10 @@
 1. No talking out of turn.
 One can ONLY talk when called upon and no one should talk while someone else is talking.
 2. Do not interrupt the class.
-There is only one hour of allotted facilitation time. The class period should not be spent giving attention to individuals acting out.
-
-Suggestions:
-The initial disruption may result in student(s) having to stand for a few moments with a finger over their mouth.
-If further disruption proceeds, student(s) will lose class points and may possibly be removed from the classroom followed by a report to the site coordinator.
-Persistent disruption will lead to a parent-facilitator conference and possible permanent removal from the class.
+There is only one hour of allotted facilitation time. The class period should not be spent giving attention to individuals acting out. Suggestions:
+-The initial disruption may result in student(s) having to stand for a few moments with a finger over their mouth.
+-If further disruption proceeds, student(s) will lose class points and may possibly be removed from the classroom followed by a -report to the site coordinator.
+-Persistent disruption will lead to a parent-facilitator conference and possible permanent removal from the class.
 3. Good behavior is rewarded.
 If students display good behavior that reflects a positive learning attitude, they will be awarded with different prizes to boost morale and to encourage and affirm positive actions. 
 That includes listening, following instructions, and putting forth effort to learn.
