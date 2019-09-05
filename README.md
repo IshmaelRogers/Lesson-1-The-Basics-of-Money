@@ -15,9 +15,9 @@
 One can ONLY talk when called upon and no one should talk while someone else is talking.
 2. Do not interrupt the class.
 There is only one hour of allotted facilitation time. The class period should not be spent giving attention to individuals acting out. Suggestions:
--The initial disruption may result in student(s) having to stand for a few moments with a finger over their mouth.
--If further disruption proceeds, student(s) will lose class points and may possibly be removed from the classroom followed by a -report to the site coordinator.
--Persistent disruption will lead to a parent-facilitator conference and possible permanent removal from the class.
+- The initial disruption may result in student(s) having to stand for a few moments with a finger over their mouth.
+- If further disruption proceeds, student(s) will lose class points and may possibly be removed from the classroom followed by a -report to the site coordinator.
+- Persistent disruption will lead to a parent-facilitator conference and possible permanent removal from the class.
 3. Good behavior is rewarded.
 If students display good behavior that reflects a positive learning attitude, they will be awarded with different prizes to boost morale and to encourage and affirm positive actions. 
 That includes listening, following instructions, and putting forth effort to learn.
@@ -38,7 +38,11 @@ That includes listening, following instructions, and putting forth effort to lea
 3. **A medium of exchange;** 100 dollars equals almost 2,000 pesos (**a foreign currency**) in Mexico; 100 shares of stock at your parent's company cost $500.
 
 ### What are the different types of money?
-*Select a student. Pretend that you have borrowed $10 from the student. Write 'IOU' on piece of paper and give to student. Ask the class: what does the paper represent, does the paper have value, and can it be spent at the store? Advice students that the demonstration represented contractual agreements and to not accept IOUs in real life without the containtent of necessary information to deem the documentation valid. Thank student for participate and award class points.*
+*Select a student, pretend that you have borrowed $10 from the student, and write 'IOU' on piece of paper and give to student. Ask the class: 
+- What does the paper represent, 
+- Does the paper have value,
+- Can it be spent at the store? 
+Advise students that the demonstration is a representation of contractual agreements and to not accept IOUs in real life unless the document contains necessary information to deem the documentation valid. Thank student for participate and award class points.*
 - Money can be broken down into 3 categories: Commodity, Representative, and Fiat Money.
 1. **Commodity Money**- money whose value comes from itself. *Example: Pearls, Diamonds, and Bitcoin*
 2. **Representative Money**- money that represents the value of something else, but has little to no value of its own. *Example: Loan, Deed, or Checks*
@@ -93,10 +97,11 @@ Students will identify different examples of money:
 - Physical representation of each choice.
 
 ### Rules:
-1. For each correct answer, student or teams will receive +100 points. Students can identify the type of money example (Commodity, Representitive, and Fiat) for an additional +50 points.
+1. For each correct answer, student or teams will receive +100 points.
 2. No answering out of turn. Student or teams must be called on in order to answer game questions.
 3. Student or teams will given 30 seconds to 1 minute to answer questions once selected or their turn is forfeited and passed on to the next student or team.
 4. If no one can answer the question, students will be permitted to work together to reach the answer for +500 points each. If students can not reach the answer, students may be quizzed on missed questions in next class.
+5. If sufficient class time remains after all examples have been provided, students can then identify the type of money example (Commodity, Representitive, and Fiat) for an additional +50 points.
 
 #### Side Teachers Note: 
 -Take note of official roster for class. Will be needing for next week's activity for banking.
